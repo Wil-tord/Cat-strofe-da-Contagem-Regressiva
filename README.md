@@ -8,6 +8,13 @@ Este projeto utiliza um Arduino para criar uma contagem regressiva de 9 a 0 em u
 - Contagem regressiva de 9 a 0 em loop
 - Efeito sonoro dramático
 
+  | Component    | Quantity | Price 
+|--------------|----------|--------|
+| Arduino Uno  | 1        | 68     |
+| LED Display  | 1        | 7      |
+| Buzzer       | 1        | 7      |
+
+
 ## Componentes Necessários
 - Arduino Uno
 - Display de 7 segmentos
