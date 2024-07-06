@@ -2,7 +2,7 @@
 
 Este projeto utiliza um Arduino para criar uma contagem regressiva de 9 a 0 em um display de LED, com um efeito sonoro dramático que aumenta em frequência até o final da contagem.
 
-![Project Image](https://github.com/username/repository/blob/main/project-image.png)
+![Project Image]([https://github.com/username/repository/blob/main/project-image.png](https://github.com/Wil-tord/Cat-strofe-da-Contagem-Regressiva/blob/main/WhatsApp%20Image%202024-07-05%20at%2022.32.45.jpeg))
 
 ## Características
 - Contagem regressiva de 9 a 0 em loop
