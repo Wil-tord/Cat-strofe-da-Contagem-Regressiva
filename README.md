@@ -12,7 +12,8 @@ Este projeto utiliza um Arduino para criar uma contagem regressiva de 9 a 0 em u
 - Arduino Uno
 - Display de 7 segmentos
 - Buzzer ativo
-- Protoboard e fios de conexão
+- Resistores.(entre 300 - 400 ohms) * 8
+- Protoboard, Mini-protoboard e fios de conexão
 
 ## Como Usar
 1. Monte o circuito conforme o diagrama fornecido.
