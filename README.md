@@ -219,3 +219,8 @@ void playIncreasingFrequencySound() {
   noTone(buzzer); // Stop the tone
 }
 
+## Fonte Original
+
+Aprendi essa informação deste vídeo do YouTube. Confira a partir de 6 horas e 30 minutos para ver a parte relevante.
+
+[![Fonte Original](https://img.youtube.com/vi/DPqiIzK97K0/maxresdefault.jpg)](https://youtu.be/DPqiIzK97K0?t=23400)
