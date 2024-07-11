@@ -217,3 +217,6 @@ void playIncreasingFrequencySound() {
 
   noTone(buzzer); // Stop the tone
 }
+```
+
+This ensures the acknowledgment is added right after the code section.
