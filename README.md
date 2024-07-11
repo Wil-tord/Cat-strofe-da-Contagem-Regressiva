@@ -219,4 +219,6 @@ void playIncreasingFrequencySound() {
 }
 ```
 
-This ensures the acknowledgment is added right after the code section.
+
+Make sure the image URL in the acknowledgment part is correct, and the URL includes the `?t=23400` to specify the start time at 6 and a half hours. Copy and paste this updated Markdown into your README file, and it should display correctly.
+
