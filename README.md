@@ -18,12 +18,11 @@ Este projeto utiliza um Arduino para criar uma contagem regressiva de 9 a 0 em u
 | Buzzer       | 1        |
 
 
-
 ## Componentes Necessários
 - Arduino Uno
 - Display de 7 segmentos
 - Buzzer ativo
-- Resistores.(entre 300 - 400 ohms) * 8
+- Resistores (entre 300 - 400 ohms) * 8
 - Protoboard, Mini-protoboard e fios de conexão
 
 ## Como Usar
@@ -218,9 +217,3 @@ void playIncreasingFrequencySound() {
 
   noTone(buzzer); // Stop the tone
 }
-
-## Fonte Original
-
-Aprendi essa informação deste vídeo do YouTube. Confira a partir de 6 horas e 30 minutos para ver a parte relevante.
-
-[![Fonte Original](https://img.youtube.com/vi/DPqiIzK97K0/maxresdefault.jpg)](https://youtu.be/DPqiIzK97K0?t=23400)
