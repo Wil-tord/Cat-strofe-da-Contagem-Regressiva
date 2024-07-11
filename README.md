@@ -220,5 +220,10 @@ void playIncreasingFrequencySound() {
 ```
 
 
-Make sure the image URL in the acknowledgment part is correct, and the URL includes the `?t=23400` to specify the start time at 6 and a half hours. Copy and paste this updated Markdown into your README file, and it should display correctly.
+## Fonte Original
+
+Aprendi essa informação deste vídeo do YouTube. Confira a partir de 6 horas e 30 minutos para ver a parte relevante.
+
+[![Fonte Original](https://img.youtube.com/vi/DPqiIzK97K0/maxresdefault.jpg)](https://youtu.be/DPqiIzK97K0?t=23400)
+
 
