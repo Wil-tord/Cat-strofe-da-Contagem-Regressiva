@@ -4,6 +4,9 @@ Este projeto utiliza um Arduino para criar uma contagem regressiva de 9 a 0 em u
 
 ![Project Image](https://github.com/Wil-tord/Cat-strofe-da-Contagem-Regressiva/blob/main/arduino%20project.jpeg)
 
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://https://www.youtube.com/watch?v=bada4GP8S5w)
+
+
 ## Características
 - Contagem regressiva de 9 a 0 em loop
 - Efeito sonoro dramático
