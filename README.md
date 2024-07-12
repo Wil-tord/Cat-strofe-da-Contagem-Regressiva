@@ -1,5 +1,12 @@
 # Catástrofe da Contagem Regressiva
 
+### Alunos
+
+| Nome               | Número USP |
+|--------------------|------------|
+| Gabriel Demba      | 15618344   |
+| Wiltord N Mosingi  | 15595392   |
+
 Este projeto utiliza um Arduino para criar uma contagem regressiva de 9 a 0 em um display de LED, com um efeito sonoro dramático que aumenta em frequência até o final da contagem.
 
 ![Project Image](https://github.com/Wil-tord/Cat-strofe-da-Contagem-Regressiva/blob/main/arduino%20project.jpeg)
